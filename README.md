@@ -17,9 +17,13 @@ The streamlit.ipynb file contains the deployment setup using Streamlit, allowing
 
 ## Project Structure
 ├── Modelling_1.ipynb    # Data preprocessing and initial model training
+
 ├── OOP_2.py             # Object-oriented programming model integration
+
 ├── Prediction_3.py      # Prediction code for deployment
+
 ├── streamlit.ipynb      # Deployment using Streamlit
+
 └── README.md            # Project documentation
 
 ## Author
